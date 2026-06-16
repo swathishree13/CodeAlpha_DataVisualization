@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Employee Salary Analysis Dashboard
 
 ## Project Overview
@@ -173,4 +172,3 @@ LinkedIn: https://www.linkedin.com/in/swathi-shree-s-8b8641385
 ---
 
 ⭐ This project was completed as part of the **CodeAlpha Data AnalyticsInternship Program**.
->>>>>>> d312d34e854b7951d5604584e3059e23c3abb258
