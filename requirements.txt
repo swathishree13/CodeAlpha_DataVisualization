@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 pandas==3.0.2
 matplotlib==3.11.0
 seaborn==0.13.2
 numpy==2.4.4
+=======
+pandas
+matplotlib
+seaborn
+numpy
+>>>>>>> d312d34e854b7951d5604584e3059e23c3abb258
