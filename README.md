@@ -137,4 +137,4 @@ LinkedIn: https://www.linkedin.com/in/swathi-shree-s-8b8641385
 
 ---
 
-⭐ This project was completed as part of the **CodeAlpha Data Science Internship Program**.
+⭐ This project was completed as part of the **CodeAlpha Data AnalyticsInternship Program**.
